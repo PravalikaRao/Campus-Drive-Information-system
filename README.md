@@ -1,0 +1,2 @@
+# Campus-Drive-Information-system
+The main objective of Campus Drive information System is to develop software which manages placement activities in college makes a interactive GUI where TPO can manage details of all students on his console, he can send a mails to students informing about placement activities. Although such a project has a very wide scope, this project contains the most important part i.e. displaying the personal and academic information of a student and company.
